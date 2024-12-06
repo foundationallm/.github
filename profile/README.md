@@ -92,4 +92,4 @@ This basic capability emerges in two archetypes, both of which FoundationaLLM su
 FoundationaLLM simplifies and streamlines building *knowledge management* (e.g., question/answer agents) and *analytic* (e.g., self-service business intelligence) agents over the data sources present across your enterprise. 
 
 > [!TIP]
-> Check out our main repository at [FoundationaLLM](https://github.com/foundationallm/foundationallm) for more information on how to get started with FoundationaLLM.
+> To get started with FoundationaLLM, check out our [main repository](https://github.com/foundationallm/foundationallm).
