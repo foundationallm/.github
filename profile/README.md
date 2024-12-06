@@ -1,5 +1,7 @@
 # Welcome to FoundationaLLM!
 
+FoundationaLLM is a platform accelerating the delivery of secure, trustworthy enterprise generative AI agents.
+
 ## Mission
 
 > We empower organizations through secure Generative AI solutions to unlock controlled disruptive business change.
