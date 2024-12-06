@@ -15,7 +15,6 @@
 Excellence, Innovation, Transparency, Mission and Impact Focused
 
 ---
----
 
 ## FoundationaLLM: The platform for accelerating the delivery of secure, trustworthy enterprise generative AI copilots 🚀
 
@@ -88,3 +87,6 @@ This basic capability emerges in two archetypes, both of which FoundationaLLM su
 - Analytics: Help users quickly get to the data driven insights they seek. Examples include recommendations, predictions, anomaly detection, statistical analysis and data querying and reporting.
 
 FoundationaLLM simplifies and streamlines building *knowledge management* (e.g., question/answer agents) and *analytic* (e.g., self-service business intelligence) agents over the data sources present across your enterprise. 
+
+> [!TIP]
+> Check out our main repository at [FoundationaLLM](https://github.com/foundationallm/foundationallm) for more information on how to get started with FoundationaLLM.
