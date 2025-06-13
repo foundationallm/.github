@@ -19,7 +19,7 @@ Excellence, Innovation, Transparency, Mission and Impact Focused
 > [!TIP]
 > To get started with FoundationaLLM, check out our [main repository](https://github.com/foundationallm/foundationallm).
 
-## FoundationaLLM: The platform for accelerating the delivery of secure, trustworthy enterprise Generative AI copilots 🚀
+## FoundationaLLM: The platform for accelerating the delivery of secure, trustworthy enterprise Generative AI agents 🚀
 
 [![License](https://img.shields.io/badge/license-evaluation%20and%20demo-green)](https://www.foundationallm.ai/license)
 
